@@ -1,0 +1,17 @@
+[id^="box"] { opacity: 0.7; background-color: lightblue; }
+
+.important { opacity: 1; }
+
+.highlighted { background-color: red; }
+
+.special-header h1 { background-color: blue; }
+
+.special-header h2 { background-color: blue; }
+
+.special-header h3 { background-color: blue; }
+
+.special-header h4 { background-color: blue; }
+
+.special-header h5 { background-color: blue; }
+
+.special-header h6 { background-color: blue; }

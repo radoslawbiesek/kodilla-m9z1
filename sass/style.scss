@@ -1,0 +1,18 @@
+[id^="box"] {
+    opacity: 0.7;
+    background-color: lightblue;
+}
+
+.important {
+    opacity: 1;
+}
+
+.highlighted {
+    background-color: red;
+}
+
+@for $index from 1 through 6 {
+    .special-header h#{$index} {
+    background-color: blue;
+    }
+}
